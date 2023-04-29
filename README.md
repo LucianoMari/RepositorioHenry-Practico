@@ -1,2 +1,2 @@
-# RepositorioHenry-Practico
-Ejercicio número 1 del módulo 2 del Curso de Javascript de Henry
+#SeguimosProbando
+Continuamos detrás del sueño de ser progamador de sofware
